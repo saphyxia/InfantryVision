@@ -1,2 +1,2 @@
 # InfantryVersion
-2022 USTL RM Version
+2022 RoboMaster Vision by COD-USTL
